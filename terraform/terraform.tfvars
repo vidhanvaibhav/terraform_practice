@@ -1,0 +1,8 @@
+access_key="AKIAQMEY5UPKMITWW26I"
+secret_key="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"
+region="us-east-1"
+ami_id="ami-0ae8f15ae66fe8cda"
+instance ="t2.micro"
+vpc_cidr="10.0.0.0/16"
+sub1_cidr="10.0.1.0/24"
+sub2_cidr="10.0.2.0/24"
