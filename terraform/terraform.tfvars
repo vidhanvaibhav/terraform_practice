@@ -1,5 +1,3 @@
-access_key="AKIAQMEY5UPKMITWW26I"
-secret_key="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"
 region="us-east-1"
 ami_id="ami-0ae8f15ae66fe8cda"
 instance ="t2.micro"
