@@ -1,0 +1,9 @@
+region="us-east-1"
+ami_id="ami-0ae8f15ae66fe8cda"
+instance ="t2.micro"
+vpc_cidr="10.0.0.0/16"
+sub1_cidr="10.0.1.0/24"
+sub2_cidr="10.0.2.0/24"
+scalegp_dc=1
+scalegp_maxsize=3
+scalegp_minsize=1
